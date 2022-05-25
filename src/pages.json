@@ -3,7 +3,9 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "首页"
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#ff6d50",
+				"navigationBarTextStyle": "#fff"
 			}
 		},
 		{
@@ -35,26 +37,26 @@
 			{
 				"pagePath": "pages/index/index",
 				"text": "首页",
-				"iconPath": "./static/navBar/index.png",
-				"selectedIconPath": "./static/navBar/indexSelect.png"
+				"iconPath": "./static/icon/navBar/index.png",
+				"selectedIconPath": "./static/icon/navBar/indexSelect.png"
 			},
 			{
 				"pagePath": "pages/service/index",
 				"text": "服务",
-				"iconPath": "./static/navBar/services.png",
-				"selectedIconPath": "./static/navBar/servicesSelect.png"
+				"iconPath": "./static/icon/navBar/services.png",
+				"selectedIconPath": "./static/icon/navBar/servicesSelect.png"
 			},
 			{
 				"pagePath": "pages/circle/index",
 				"text": "校圈",
-				"iconPath": "./static/navBar/circle.png",
-				"selectedIconPath": "./static/navBar/circleSelect.png"
+				"iconPath": "./static/icon/navBar/circle.png",
+				"selectedIconPath": "./static/icon/navBar/circleSelect.png"
 			},
 			{
 				"pagePath": "pages/individual/index",
 				"text": "个人",
-				"iconPath": "./static/navBar/individual.png",
-				"selectedIconPath": "./static/navBar/individualSelect.png"
+				"iconPath": "./static/icon/navBar/individual.png",
+				"selectedIconPath": "./static/icon/navBar/individualSelect.png"
 			}
 		],
 		"position": "bottom",
